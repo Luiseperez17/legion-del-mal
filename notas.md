@@ -1,3 +1,12 @@
+> [!NOTE]
+> Información útil para el lector.
+
+
+> [!WARNING]
+> Algo que requiere atención.
+
+
+
 # Título 1
 
 **negrita** Texto en negrita.
