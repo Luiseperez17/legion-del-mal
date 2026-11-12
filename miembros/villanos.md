@@ -6,6 +6,9 @@
 4. Joker
 5. Harley Quinn
 6. Darkseid
+7. Doom
+8. Thanos
+9. Loki
 
 # Notas
 
