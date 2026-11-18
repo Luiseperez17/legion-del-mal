@@ -4,6 +4,11 @@
 **Universo:** MARVEL
 **Nivel de amenaza:** 🔴 CRÍTICO — El aracnido mas peligro
 
+## Enemigos
+- Doctor Octopus
+-* Green Goblin
+
+## Corriendo issue #4
 ---
 
 ## Poderes confirmados
