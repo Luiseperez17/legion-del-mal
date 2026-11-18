@@ -9,6 +9,8 @@
 -* Green Goblin
 
 ## Corriendo issue #4
+
+## Cerrando issue padre
 ---
 
 ## Poderes confirmados
