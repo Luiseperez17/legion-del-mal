@@ -11,6 +11,9 @@
 ## Corriendo issue #4
 ---
 
+## Corrigiendo issue #2 
+
+
 ## Poderes confirmados
 
 - Fuerza prácticamente ilimitada
