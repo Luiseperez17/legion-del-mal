@@ -2,7 +2,7 @@
 name: "✨ Nueva Funcionalidad"
 about: Propón una funcionalidad o capacidad para el producto
 title: ''
-labels: ''
+labels: Mejora de software
 assignees: Luiseperez17
 
 ---
